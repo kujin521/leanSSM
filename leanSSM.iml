@@ -19,10 +19,19 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="Maven: Arquillian JUnit:Release" level="project" />
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/project-lib/cglib-3.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/project-lib/asm-5.0.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
